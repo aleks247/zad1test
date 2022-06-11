@@ -1,6 +1,4 @@
 import java.util.Scanner;
-//nice
-
 
 public class Main {
     public static void printingDevisibleNumbers(int N) {
