@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Нещо
 public class Main {
     public static void printingDevisibleNumbers(int N) {
         int i = 1;
